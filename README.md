@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <h1 align="center"> Curriculum Group Policy Optimization:<br>Adaptive Sampling for Unleashing the
 Potential of Text-to-Image Generation </h1>
@@ -48,3 +49,6 @@ Additionally, setting `config.train.gradient_accumulation_steps = config.sample.
 ## 🤗 Acknowledgement
 
 This project is based on [Flow-GRPO](https://github.com/yifan123/flow_grpo). Thank you for your outstanding contributions to the community.
+=======
+# CGPO
+>>>>>>> 9ea26ba890553638edd19feb62d9bbc10bef126a
